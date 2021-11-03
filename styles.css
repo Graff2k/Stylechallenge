@@ -1,0 +1,105 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.colors {
+    border: 3px solid black;
+    padding: 10px;
+    margin: 10px auto;
+}
+.container-class{
+    width: 100%;
+}
+.color-panel {
+    display: inline-block;
+    width:20%;
+    text-align: center;
+    margin:15px auto;
+    min-height: 100px;
+}
+.blue{
+    background-color:blue;
+    color:black;
+}
+.red{
+    background-color:red;
+    color:black;
+}
+.yellow{
+    background-color:yellow;
+
+}
+.orange{
+    background-color:orange;
+}
+.green{
+    background-color:green;
+}
+.brown{
+    background-color: brown;
+}
+.purple{
+    background-color:purple;
+}
+.black{
+    background-color:black;
+    color:white;
+}
+.font{
+    border: 3px solid black;
+    padding: 10px;
+    margin: 10px auto;
+}
+.font-panel{
+    width:45%;
+    display: inline-block;
+}
+.regular{
+    font-style: normal;
+}
+.italic{
+    font-style: italic;
+}
+.bold{
+    font-weight: 700;
+}
+.arial{
+    font-family: "Arial", sans-serif;
+}
+.times{
+    font-family: "Times", sans-serif;
+}
+.TimesNR{
+    font-family: 'Times New Roman' serif;
+}
+.Helvetica{
+    font-family: 'Helvetica', sans-serif;
+}
+.Courier{
+    font-family: 'Courier', sans-serif;
+}
+.Candara{
+    font-family: 'Candara', sans-serif;
+}
+.Text-Style{
+    border: 3px solid black;
+    padding: 10px;
+    margin: 10px auto;
+}
+text-panel h1 {
+  font-weight: 700;
+  font-size: 32px;
+  font-family: 'Arial', sans-serif;
+}
+
+.text-panel h2 {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: 'Arial', sans-serif;
+}
+
+.text-panel p {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: 'Arial', sans-serif;
+}
